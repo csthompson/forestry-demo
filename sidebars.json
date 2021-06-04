@@ -9,6 +9,9 @@
     "Features": [
       "test",
       "mdx"
-    ]
+    ],
+    "Configuration": [
+        "Getting Started": []
+     ]
   }
 }
