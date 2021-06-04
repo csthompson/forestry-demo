@@ -10,8 +10,10 @@
       "test",
       "mdx"
     ],
-    "Configuration": [
-        "Getting Started": []
-     ]
+    "Configuration": {
+        "Getting Started": [
+          "test"
+         ]
+    }
   }
 }
