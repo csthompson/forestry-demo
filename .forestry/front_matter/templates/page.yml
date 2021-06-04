@@ -11,6 +11,11 @@ fields:
 - type: text
   name: sidebar_label
   label: sidebar_label
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
 pages:
 - docs/test.md
 - docs/testing.md
