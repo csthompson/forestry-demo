@@ -1,8 +1,6 @@
 ---
-id: ''
-title: Testing
-sidebar_label: ''
 slug: testing
-
+title: Style Guide
+sidebar_label: Testing
 ---
 Testing how the documentation shows up
